@@ -49,6 +49,7 @@ function flatsome_setup() {
     'footer' => __( 'Footer Menu', 'flatsome' ),
     'top_bar_nav' => __( 'Top Bar Menu', 'flatsome' ),
     'my_account' => __( 'My Account Menu', 'flatsome' ),
+
   ) );
 
   /*  Enable support for Post Formats */
